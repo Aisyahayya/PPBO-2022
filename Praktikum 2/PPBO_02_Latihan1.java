@@ -1,3 +1,5 @@
+package com.mycompany.ppbo_02_latihan1;
+
 // Nama : Aisyah Hayya Imani
 // NIM  : M0521008
 
