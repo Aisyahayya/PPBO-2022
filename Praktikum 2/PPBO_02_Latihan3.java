@@ -1,14 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Project/Maven2/JavaApp/src/main/java/${packagePath}/${mainClassName}.java to edit this template
- */
-
-package com.mycompany.ppbo_02_latihan3;
-
-/**
- *
- * @author HP
- */
 // Nama : Aisyah Hayya Imani
 // NIM  : M0521008
 
