@@ -10,8 +10,8 @@ import java.io.PrintWriter;
 import java.util.Scanner;
 
 public class PPBO_07_Latihan1 {
-	  // method ini untuk input teks oleh user melalui keyboard
-	  public String ketikTeks() {
+	// method ini untuk input teks oleh user melalui keyboard
+	public String ketikTeks() {
 		System.out.println("Ketik kalimat yang akan disimpan :");
 		Scanner sc = new Scanner(System.in);
 		// ambil 1 kalimat, setelah tekan enter teks akan diambil
@@ -19,8 +19,8 @@ public class PPBO_07_Latihan1 {
 		return str1;
 	}
 
-	  // untuk menyimpan teks yang diketik user ke file
-	  public void simpanTeks(String teks) {
+	// untuk menyimpan teks yang diketik user ke file
+	public void simpanTeks(String teks) {
 		// set up file and stream
 		// ganti path "/tmp/sample3.data" dengan alamat file di komputer anda
 		File outFile = new File("sample3.data");
